@@ -1,0 +1,20 @@
+datasources:a6a21bd104de85cd3be1ddd516df92c021c5eadc
+commandlineoptions:387fa1f18a5a9c3a64b23c5ac2f62b5941d4895f
+suitesfrom:no-suites-from-option
+file:1109edec669507bae424dec21855d70a7c69c666
+--suite Suites.applicationTest
+--suite Suites.atsjobcopyTest
+--suite Suites.companyadvanceTest
+--suite Suites.contactTest
+--suite Suites.employerindexTest
+--suite Suites.examinedTest
+--suite Suites.generalprovisionTest
+--suite Suites.headerfooterTest
+--suite Suites.homepageTest
+--suite Suites.jobalarmTest
+--suite Suites.loginTest
+--suite Suites.profileTest
+--suite Suites.recordedTest
+--suite Suites.resumeTest
+--suite Suites.sectionsTest
+--suite Suites.settingsTest

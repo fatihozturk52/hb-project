@@ -1,0 +1,1 @@
+Loglar bu dosyaya gelecek.
